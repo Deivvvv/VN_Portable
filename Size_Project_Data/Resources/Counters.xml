@@ -1,0 +1,14 @@
+<root>
+  <Body>
+    <Name>DayAction</Name>
+    <Tayp>h</Tayp>
+  </Body>
+  <Body>
+    <Name>DayOfTheWeek</Name>
+    <Tayp>d</Tayp>
+  </Body>
+  <Body>
+    <Name>PastDays</Name>
+    <Tayp>e</Tayp>
+  </Body>
+</root>

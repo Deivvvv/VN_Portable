@@ -1,0 +1,18 @@
+<root>
+  <Name>New Scene456456</Name>
+  <Tag>0</Tag>
+  <BackLink>false</BackLink>
+  <Link>-1</Link>
+  <Action>
+    <Text></Text>
+    <MeText />
+    <Emotion>0</Emotion>
+    <Role>0</Role>
+    <Link>0:New Scene45</Link>
+    <BG>-1</BG>
+  </Action>
+  <Links>
+    <Id>0:New Scene</Id>
+    <action>2</action>
+  </Links>
+</root>

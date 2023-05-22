@@ -1,0 +1,14 @@
+<root>
+  <Name>New Scene45</Name>
+  <Tag>0</Tag>
+  <BackLink>false</BackLink>
+  <Link>-1</Link>
+  <Links>
+    <Id>0:New Scene456456</Id>
+    <action>0</action>
+  </Links>
+  <Links>
+    <Id>0:New Scene</Id>
+    <action>1</action>
+  </Links>
+</root>

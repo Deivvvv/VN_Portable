@@ -1,0 +1,53 @@
+<root>
+  <Name>New Scene</Name>
+  <Tag>0</Tag>
+  <BackLink>false</BackLink>
+  <Link>-1</Link>
+  <Action>
+    <Text></Text>
+    <MeText></MeText>
+    <Emotion>0</Emotion>
+    <Role>3</Role>
+    <Link>0:New Scene45</Link>
+    <BG>1</BG>
+    <LogicBody>
+      <Mood>0</Mood>
+      <LogicCase>role_Actor1</LogicCase>
+      <LogicCase>charter_Actor1</LogicCase>
+    </LogicBody>
+    <LogicBody>
+      <Mood>2</Mood>
+      <LogicCase>tayp_charter_noname_</LogicCase>
+      <LogicCase>==_</LogicCase>
+      <LogicCase>tayp_charter_noname_</LogicCase>
+    </LogicBody>
+    <LogicBody>
+      <Mood>4</Mood>
+      <LogicCase>gtayp_charter_noname</LogicCase>
+      <LogicCase>i_0</LogicCase>
+      <LogicCase>tp_</LogicCase>
+    </LogicBody>
+  </Action>
+  <Action>
+    <Text></Text>
+    <MeText></MeText>
+    <Emotion>0</Emotion>
+    <Role>0</Role>
+    <Link>-1</Link>
+    <BG>-1</BG>
+    <LogicBody>
+      <Mood>4</Mood>
+      <LogicCase>gtayp_charter_noname</LogicCase>
+      <LogicCase>i_0</LogicCase>
+      <LogicCase>tp_+100</LogicCase>
+    </LogicBody>
+  </Action>
+  <Action>
+    <Text></Text>
+    <MeText></MeText>
+    <Emotion>0</Emotion>
+    <Role>0</Role>
+    <Link>-1</Link>
+    <BG>-1</BG>
+  </Action>
+</root>
